@@ -49,7 +49,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://monicah79.github.io/awesome-books-project/)
+- [Live Demo Link](https://monicah79.github.io/webpack-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
