@@ -35,5 +35,4 @@ window.addEventListener('DOMContentLoaded', () => {
        </li>`)
     .join('');
   list.innerHTML = taskString;
-
 });
